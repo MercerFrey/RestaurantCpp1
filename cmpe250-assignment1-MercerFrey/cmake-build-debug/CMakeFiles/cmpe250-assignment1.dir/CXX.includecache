@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melih/CLionProjects/cmpe250-assignment1-MercerFrey/Restaurant.cpp
+Restaurant.h
+/home/melih/CLionProjects/cmpe250-assignment1-MercerFrey/Restaurant.h
+
+/home/melih/CLionProjects/cmpe250-assignment1-MercerFrey/Restaurant.h
+iostream
+-
+vector
+-
+Table.h
+/home/melih/CLionProjects/cmpe250-assignment1-MercerFrey/Table.h
+
+/home/melih/CLionProjects/cmpe250-assignment1-MercerFrey/Table.h
+iostream
+-
+
