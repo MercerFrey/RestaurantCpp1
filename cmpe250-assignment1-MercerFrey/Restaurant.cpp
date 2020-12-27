@@ -1,12 +1,3 @@
-/*
-Student Name: 
-Student Number: 
-Project Number: 1
-Compile Status: [SUCCESS/FAIL]
-Running Status: [SUCCESS/FAIL]
-Notes: Anything you want to say about your code that will be helpful in the grading process.
-*/
-
 #include "Restaurant.h"
 
 using namespace std;
